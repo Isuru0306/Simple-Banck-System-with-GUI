@@ -1,1 +1,1 @@
-# Simple-Banck-System-with-GUI
+# Simple-Bank-System-with-GUI
